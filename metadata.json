@@ -1,0 +1,6 @@
+{
+  "name": "آموزش توانا",
+  "description": "آموزش توانا - اکوسیستم جامع آکادمی تخصصی و کنکور با مربی هوش مصنوعی و گذرنامه مهارت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
